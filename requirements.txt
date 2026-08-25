@@ -1,6 +1,4 @@
-house-price-prediction/
-├── README.md
-├── Untitled1.ipynb
-├── app.py
-├── model.pkl
-└── requirements.txt   ← this is needed
+streamlit
+pandas
+scikit-learn
+joblib
